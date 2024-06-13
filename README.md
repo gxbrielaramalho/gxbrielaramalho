@@ -1,5 +1,5 @@
 Olá! Eu sou a Gabriela Ramalho 🖐️ <br>
-Sou uma desenvolvedora web com uma sólida base em HTML e CSS, focado em criar interfaces elegantes e funcionais. Atualmente, estou expandindo meus conhecimentos em JavaScript, React e Node.js para me tornar um desenvolvedor full-stack.
+Sou uma desenvolvedora web com uma sólida base em HTML e CSS, focado em criar interfaces elegantes e funcionais. Atualmente, estou expandindo meus conhecimentos em JavaScript, React e Node.js para me tornar uma desenvolvedora full-stack.
 
 ## Tecnologias que eu uso no meu dia
 <div style="display: inline_block">
