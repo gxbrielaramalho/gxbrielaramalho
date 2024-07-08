@@ -1,7 +1,7 @@
 Olá! Eu sou a Gabriela Ramalho 🖐️ <br>
 Sou uma desenvolvedora web com uma sólida base em HTML e CSS, focada em criar interfaces elegantes e funcionais. Atualmente, estou expandindo meus conhecimentos em JavaScript, React, Node.js e Java para me tornar uma desenvolvedora full-stack.
 
-<a href="https://www.linkedin.com/in/gxbrielaramalho/">
+<a href="https://www.linkedin.com/in/gxbrielaramalho/" target="_blank">
   <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <br />
