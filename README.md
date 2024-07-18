@@ -14,20 +14,7 @@ Desenvolvedora de Software focada na criação de interfaces elegantes e funcion
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-  <!-- TypeScript -->
-<a href="https://www.typescriptlang.org/" target="_blank">
-  <img height="20" src="https://raw.githubusercontent.com/github/explore/80d646f59d0e84c53583c975e4330a80fa6f0f44/topics/typescript/typescript.png" alt="TypeScript">
-</a>
 
-<!-- PHP -->
-<a href="https://www.php.net/" target="_blank">
-  <img height="20" src="https://raw.githubusercontent.com/github/explore/5b424c91df0809f810f0b840cfa1502e65dc040c/topics/php/php.png" alt="PHP">
-</a>
-
-<!-- SQL -->
-<a href="https://www.mysql.com/" target="_blank">
-  <img height="20" src="https://raw.githubusercontent.com/github/explore/0d3799e26728905d56882e4edb8c92f5a8f2b29a/topics/sql/sql.png" alt="SQL">
-</a>
 
 </p>
 <br />
