@@ -1,7 +1,4 @@
-Olá! Eu sou a Gabriela Ramalho 🖐️
-Sou uma desenvolvedora web experiente, com proficiência sólida em HTML e CSS, especializada na criação de interfaces elegantes e funcionais. Tenho expertise avançada em JavaScript, React, Node.js e Java, consolidando-me como desenvolvedora full-stack. Ao longo da minha carreira, executei diversos projetos freelancers, aplicando essas tecnologias de maneira eficaz. Além das habilidades técnicas, possuo excelente capacidade de comunicação e trabalho em equipe, fundamentais para o sucesso em projetos desafiadores.
-
-Estou comprometida em transformar conceitos em projetos de alto impacto e em contribuir ativamente para a comunidade de código aberto. Vamos trabalhar juntos para criar algo incrível?
+Desenvolvedora de Software focada na criação de interfaces elegantes e funcionais, atualmente expandindo conhecimentos em JavaScript, Node.js, Java, React e TypeScript, PHP e SQL para me tornar uma desenvolvedora full-stack. Estou em transição de carreira para a área da programação, e tenho desenvolvido sites, integrado banco de dados e criado APIs para ampliar meu conhecimento. Decidi ser programadora pro resto da vida. Sou comunicativa, gosto de trabalhar em equipe e estou sempre estudando para me desenvolver. Meu objetivo é transformar ideias em projetos incríveis e contribuir para a comunidade de código aberto.
 
 <a href="https://www.linkedin.com/in/gxbrielaramalho/" target="_blank">
   <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
