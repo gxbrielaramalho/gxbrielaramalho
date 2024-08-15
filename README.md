@@ -4,7 +4,7 @@ No meu portfólio, você encontrará projetos que abrangem diversas áreas da pr
 
 - Desenvolvimento Web: Experiência sólida em HTML, CSS e JavaScript, além de frameworks como React. Também tenho trabalhado na construção de APIs e na integração de bancos de dados para criar interfaces e funcionalidades ricas.
 
-- Desenvolvimento Backend: Competências em Java, C#, Node.js e PHP, onde crio sistemas robustos e escaláveis. Desenvolvi soluções eficientes e mantive boas práticas de programação.
+- Desenvolvimento Backend: Competências em Java, C#, e Node.js, onde crio sistemas robustos e escaláveis. Desenvolvi soluções eficientes e mantive boas práticas de programação.
 
 - Banco de Dados: Familiaridade com bancos de dados relacionais como SQL Server e NoSQL como MongoDB, com habilidades em criação, manipulação de consultas e design de estruturas complexas.
 
