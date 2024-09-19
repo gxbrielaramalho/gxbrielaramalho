@@ -1,5 +1,4 @@
-Olá! Sou Gabriela, uma entusiasta de programação e desenvolvedora dedicada à criação de soluções tecnológicas inovadoras. Atualmente, estou em uma jornada empolgante na área de desenvolvimento de software e também cursando Arquitetura e Organização de Computadores na Faculdade Estácio, onde continuo expandindo meus conhecimentos e habilidades.
-
+Olá! Sou Gabriela, desenvolvedora dedicada à criação de soluções tecnológicas inovadoras.
 No meu portfólio, você encontrará projetos que abrangem diversas áreas da programação, incluindo:
 
 - Desenvolvimento Web: Experiência sólida em HTML, CSS e JavaScript, além de frameworks como React. Também tenho trabalhado na construção de APIs e na integração de bancos de dados para criar interfaces e funcionalidades ricas.
@@ -7,8 +6,6 @@ No meu portfólio, você encontrará projetos que abrangem diversas áreas da pr
 - Desenvolvimento Backend: Competências em Java, C#, e Node.js, onde crio sistemas robustos e escaláveis. Desenvolvi soluções eficientes e mantive boas práticas de programação.
 
 - Banco de Dados: Familiaridade com bancos de dados relacionais como SQL Server e NoSQL como MongoDB, com habilidades em criação, manipulação de consultas e design de estruturas complexas.
-
-- Certificações: Concluí uma série de cursos e certificações em HTML5, CSS3, Segurança da Informação, Git e GitHub, Mautic, Marketing Digital, Java Básico, e mais. Além disso, estou em progresso no curso de Bacharel em Ciência da Computação pela Estácio.
 
 Meu GitHub reflete meu compromisso contínuo com o aprendizado e a prática das melhores práticas de programação. Estou sempre em busca de novos desafios e oportunidades para aplicar meu conhecimento e colaborar em projetos impactantes.
 
